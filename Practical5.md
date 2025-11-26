@@ -1,6 +1,5 @@
 # Practical 5 — Integration Testing with TestContainers
 
-## Complete reference report (practical5-example)
 
 ### Overview
 This project demonstrates integration testing with TestContainers in Go.  

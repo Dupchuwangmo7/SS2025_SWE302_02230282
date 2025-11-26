@@ -3,6 +3,7 @@
 **Student:** Dupchu Wangmo  
 **Project:** Interactive Quiz Application (Kahoot Clone)  
 **Link to Reop:** [Link](https://github.com/Dupchuwangmo7/reactquiz)
+
 ---
 
 ## Table of Contents
@@ -26,12 +27,12 @@ This practical involved developing a **Kahoot Clone** - an interactive, real-tim
 
 **Key Achievements:**
 
-- ✅ Fully functional quiz application with 5 React-based questions
-- ✅ Real-time timer with 30-second countdown
-- ✅ Interactive UI with immediate answer feedback
-- ✅ 63 automated end-to-end tests covering all functional requirements
-- ✅ Responsive design optimized for multiple screen sizes
-- ✅ Production-ready build system with Docker support
+- Fully functional quiz application with 5 React-based questions
+- Real-time timer with 30-second countdown
+- Interactive UI with immediate answer feedback
+- 63 automated end-to-end tests covering all functional requirements
+- Responsive design optimized for multiple screen sizes
+- Production-ready build system with Docker support
 
 ---
 
@@ -370,19 +371,19 @@ await page.waitForTimeout(1500); // Allow for animation
 
 ## Results and Outcomes
 
-### Functional Requirements - All Met ✅
+### Functional Requirements - All Met
 
-| Requirement           | Status      | Implementation                    |
-| --------------------- | ----------- | --------------------------------- |
-| Quiz start mechanism  | ✅ Complete | StartScreen component             |
-| Question display      | ✅ Complete | QuestionCard component            |
-| Answer selection      | ✅ Complete | Click handlers with validation    |
-| Score tracking        | ✅ Complete | State management in App.tsx       |
-| Timer countdown       | ✅ Complete | Timer component with useEffect    |
-| Visual feedback       | ✅ Complete | CSS classes for correct/incorrect |
-| Game completion       | ✅ Complete | GameOver component                |
-| Restart functionality | ✅ Complete | State reset on restart            |
-| Responsive design     | ✅ Complete | Tailwind responsive utilities     |
+| Requirement           | Status   | Implementation                    |
+| --------------------- | -------- | --------------------------------- |
+| Quiz start mechanism  | Complete | StartScreen component             |
+| Question display      | Complete | QuestionCard component            |
+| Answer selection      | Complete | Click handlers with validation    |
+| Score tracking        | Complete | State management in App.tsx       |
+| Timer countdown       | Complete | Timer component with useEffect    |
+| Visual feedback       | Complete | CSS classes for correct/incorrect |
+| Game completion       | Complete | GameOver component                |
+| Restart functionality | Complete | State reset on restart            |
+| Responsive design     | Complete | Tailwind responsive utilities     |
 
 ### Performance Metrics
 
@@ -465,7 +466,7 @@ The modular architecture and comprehensive testing provide a solid foundation fo
 
 The Kahoot Clone successfully demonstrates the application of modern software development practices to create an engaging, reliable, and maintainable web application. All functional requirements have been met, and the codebase is well-structured for future development.
 
-**Project Status:** ✅ **Complete and Production-Ready**
+**Project Status:** **Complete and Production-Ready**
 
 ---
 
